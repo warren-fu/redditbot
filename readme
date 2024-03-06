@@ -1,0 +1,8 @@
+source /Users/warrenfu/Documents/vidconvert/bin/activate
+
+pip install moviepy
+pip install decorator==4.4.2
+pip install opencv-python
+pip install numpy
+pip install pandas
+pip install boto3
