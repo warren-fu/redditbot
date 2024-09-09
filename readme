@@ -1,3 +1,7 @@
+Due to the recent surge in popularity of TTS reddit stories with games such as minecraft or subway surfers in the background, I decided to make an app which would allow me to convert any reddit story into a video, with any background video, subtitles, and the story, read aloud with AWS Polly. This, when paired up with a reddit web scraper, could lead to a fully automated tool to pump out these TTS reddit videos and upload them to sites such as Youtube, Instagram, or TikTok.
+
+
+note to self:
 source /Users/warrenfu/Documents/vidconvert/bin/activate
 
 pip install moviepy
